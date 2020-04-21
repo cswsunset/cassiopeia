@@ -18,8 +18,8 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 335
-Active Line: 339
+Scroll Position: 104
+Active Line: 105
 Video Position: 32440
 
 [V4+ Styles]
@@ -145,7 +145,7 @@ Dialogue: 0,0:05:08.12,0:05:10.74,NanohaW Narration1,Subaru,0,0,0,,The cold wind
 Dialogue: 0,0:05:10.74,0:05:13.69,NanohaW Narration1,Subaru,0,0,0,,and the arm embracing me was warm.
 Dialogue: 0,0:05:17.21,0:05:22.59,NanohaW Narration1,Subaru,0,0,0,,The person who saved me was strong, kind, and totally rad.
 Dialogue: 0,0:05:25.01,0:05:29.97,NanohaW Narration1,Subaru,0,0,0,,I was ashamed of myself for\Nnot being able to do anything but sit there and cry.
-Dialogue: 0,0:05:33.65,0:05:38.67,NanohaW Narration1,Subaru,0,0,0,,Since that time, for the first time in my life\N I knew in my heart what I wanted.
+Dialogue: 0,0:05:33.65,0:05:38.67,NanohaW Narration1,Subaru,0,0,0,,Since that time, for the first time in my life,\NI knew in my heart what I wanted.
 Dialogue: 1,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(490,500)\pos(640,513.5)\bord0\c&HD9D4DD&}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway
 Dialogue: 0,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(490,500)\pos(640,513.5)\c&H000000&\1a&HFF&\t(0,490,\1a&H00&)\t(5370,5870,\1a&HFF&)}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway
 Dialogue: 0,0:05:42.38,0:05:45.28,NanohaW Narration1,Subaru,0,0,0,,I’m done with being the kind of person
