@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha StrikerS 
 Video AR Mode: 4
 Video AR Value: 1.790262
 Video Zoom Percent: 1.000000
-Scroll Position: 327
-Active Line: 331
-Video Position: 31545
+Scroll Position: 335
+Active Line: 339
+Video Position: 32440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 0,0:02:36.33,0:02:37.57,NanohaW Dialogue1,Subaru,0,0,0,,Sis?
 Dialogue: 0,0:02:48.54,0:02:51.79,NanohaW Dialogue1,Subaru,0,0,0,,It hurts... and it’s hot...
 Dialogue: 0,0:02:51.79,0:02:56.19,NanohaW Dialogue1,Subaru,0,0,0,,I don’t like this... I want to go home!
 Dialogue: 0,0:03:00.30,0:03:01.44,NanohaW Dialogue1,Subaru,0,0,0,,Help...
-Dialogue: 0,0:03:05.20,0:03:08.14,NanohaW Dialogue1,Subaru,0,0,0,,Somebody, save me!
+Dialogue: 0,0:03:05.20,0:03:08.14,NanohaW Dialogue1,Subaru,0,0,0,,Somebody, help me!
 Dialogue: 0,0:03:26.79,0:03:30.31,NanohaW Dialogue1,Nano,0,0,0,,Good, I made it. I’ve come to save you.
 Dialogue: 0,0:03:37.06,0:03:39.53,NanohaW Dialogue1,Nano,0,0,0,,You’ve done your best, right? That’s impressive!
 Dialogue: 0,0:03:41.48,0:03:43.93,NanohaW Dialogue1,Nano,0,0,0,,Everything is okay now.
@@ -139,18 +139,18 @@ Dialogue: 0,0:04:33.60,0:04:38.98,NanohaW Dialogue1,Nano,0,0,0,,I’ve rescued a
 Dialogue: 0,0:04:40.27,0:04:44.83,NanohaW Dialogue1,Radio,0,0,0,,Thank you very much...\Nyou’re the flying ace of aces, all right!
 Dialogue: 0,0:04:45.67,0:04:51.10,NanohaW Dialogue1,Nano,0,0,0,,After dropping her off with the medical team on the west bank, I’ll resume with the rescue effort.
 Dialogue: 0,0:04:51.10,0:04:51.94,NanohaW Dialogue1,Radio,0,0,0,,Yes, please!
-Dialogue: 0,0:05:01.81,0:05:04.72,NanohaW Narration1,Subaru,0,0,0,,I was rescued from the inferno
-Dialogue: 0,0:05:04.72,0:05:08.12,NanohaW Narration1,Subaru,0,0,0,,and brought into the expansive sky.
+Dialogue: 0,0:05:01.81,0:05:04.72,NanohaW Narration1,Subaru,0,0,0,,I was rescued from being smothered in the inferno
+Dialogue: 0,0:05:04.72,0:05:08.12,NanohaW Narration1,Subaru,0,0,0,,and brought into the open sky.
 Dialogue: 0,0:05:08.12,0:05:10.74,NanohaW Narration1,Subaru,0,0,0,,The cold wind was gentle,
 Dialogue: 0,0:05:10.74,0:05:13.69,NanohaW Narration1,Subaru,0,0,0,,and the arm embracing me was warm.
 Dialogue: 0,0:05:17.21,0:05:22.59,NanohaW Narration1,Subaru,0,0,0,,The person who saved me was strong, kind, and totally rad.
 Dialogue: 0,0:05:25.01,0:05:29.97,NanohaW Narration1,Subaru,0,0,0,,I was ashamed of myself for\Nnot being able to do anything but sit there and cry.
-Dialogue: 0,0:05:33.65,0:05:38.67,NanohaW Narration1,Subaru,0,0,0,,Since that time, for the first time in my life, I firmly believed in my heart.
+Dialogue: 0,0:05:33.65,0:05:38.67,NanohaW Narration1,Subaru,0,0,0,,Since that time, for the first time in my life\N I knew in my heart what I wanted.
 Dialogue: 1,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(490,500)\pos(640,513.5)\bord0\c&HD9D4DD&}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway
 Dialogue: 0,0:05:41.81,0:05:47.68,NanohaW Dialogue2,,0,0,0,,{\blur0.75\fad(490,500)\pos(640,513.5)\c&H000000&\1a&HFF&\t(0,490,\1a&H00&)\t(5370,5870,\1a&HFF&)}April 0075, Midchilda\N8th Coastal Airport Abandoned Highway
-Dialogue: 0,0:05:42.38,0:05:45.28,NanohaW Narration1,Subaru,0,0,0,,Being able to only cry and to do nothing...
-Dialogue: 0,0:05:45.28,0:05:46.94,NanohaW Narration1,Subaru,0,0,0,,I won’t be like that anymore...
-Dialogue: 0,0:05:55.29,0:05:56.84,NanohaW Narration1,Subaru,0,0,0,,Because I will become stronger.
+Dialogue: 0,0:05:42.38,0:05:45.28,NanohaW Narration1,Subaru,0,0,0,,I’m done with being the kind of person
+Dialogue: 0,0:05:45.28,0:05:47.50,NanohaW Narration1,Subaru,0,0,0,,who can’t do anything but sit there and cry.
+Dialogue: 0,0:05:55.29,0:05:56.84,NanohaW Narration1,Subaru,0,0,0,,Because I {\i0}will{\i1} become stronger.
 Dialogue: 0,0:06:03.46,0:06:06.16,NanohaW Dialogue1,Tia,0,0,0,,Subaru, if you move around too much,
 Dialogue: 0,0:06:06.16,0:06:08.91,NanohaW Dialogue1,Tia,0,0,0,,those cheap rollerblades are going to fall apart during the exam.
 Dialogue: 0,0:06:10.09,0:06:13.34,NanohaW Dialogue1,Subaru,0,0,0,,Tia, don’t jinx it!
@@ -202,10 +202,10 @@ Dialogue: 0,0:08:24.64,0:08:27.85,NanohaW Dialogue1,Rein,0,0,0,,Your objective i
 Dialogue: 0,0:08:27.85,0:08:32.70,NanohaW Dialogue1,Rein,0,0,0,,Oh, and of course, there are dummy targets which you mustn’t destroy, understand?
 Dialogue: 0,0:08:32.70,0:08:36.90,NanohaW Dialogue1,Rein,0,0,0,,Be careful of incoming attacks, and destroy all the targets.
 Dialogue: 0,0:08:36.90,0:08:40.31,NanohaW Dialogue1,Rein,0,0,0,,Also, be sure to reach the finish line\Nbefore the timer runs out.
-Dialogue: 0,0:08:40.31,0:08:42.13,NanohaW Dialogue1,Rein,0,0,0,,Are there any questions?
-Dialogue: 0,0:08:42.13,0:08:43.12,NanohaW Dialogue1,Subaru,0,0,0,,Hmm...
-Dialogue: 0,0:08:43.12,0:08:44.44,NanohaW Dialogue1,Tia,0,0,0,,No.
-Dialogue: 0,0:08:44.44,0:08:46.17,NanohaW Dialogue1,Subaru,0,0,0,,None.
+Dialogue: 0,0:08:40.31,0:08:41.35,NanohaW Dialogue1,Rein,0,0,0,,Are there any questions?
+Dialogue: 0,0:08:42.13,0:08:43.18,NanohaW Dialogue1,Subaru,0,0,0,,Hmm...
+Dialogue: 0,0:08:43.78,0:08:44.44,NanohaW Dialogue1,Tia,0,0,0,,No.
+Dialogue: 0,0:08:45.16,0:08:46.17,NanohaW Dialogue1,Subaru,0,0,0,,None.
 Dialogue: 0,0:08:46.17,0:08:48.42,NanohaW Dialogue1,Rein,0,0,0,,Well then, we’ll be starting in just a bit.
 Dialogue: 0,0:08:48.42,0:08:51.17,NanohaW Dialogue1,Rein,0,0,0,,I’ll see ya at the finish!
 Dialogue: 0,0:08:57.14,0:08:58.60,NanohaW Dialogue1,Tia,0,0,0,,Ready...
@@ -229,7 +229,7 @@ Dialogue: 0,0:10:40.10,0:10:42.12,NanohaW Dialogue1,Hayate,0,0,0,,Especially whe
 Dialogue: 0,0:10:42.12,0:10:46.30,NanohaW Dialogue1,Hayate,0,0,0,,That last challenge at which more than half of all examinees are defeated,
 Dialogue: 0,0:10:46.30,0:10:47.91,NanohaW Dialogue1,Hayate,0,0,0,,the Large-Scale Auto-Sphere.
 Dialogue: 0,0:10:47.91,0:10:52.23,NanohaW Dialogue1,Fate,0,0,0,,Looking at that pair’s skill now,\Nit would normally be hard to defend against or evade it.
-Dialogue: 0,0:10:52.23,0:10:55.45,NanohaW Dialogue1,Fate,0,0,0,,The Sphere uses medium-and-long-range attacks,\Nmaking it a difficult opponent.
+Dialogue: 0,0:10:52.23,0:10:55.45,NanohaW Dialogue1,Fate,0,0,0,,The Sphere uses medium and long-range attacks,\Nmaking it a difficult opponent.
 Dialogue: 0,0:10:55.45,0:10:57.38,NanohaW Dialogue1,Hayate,0,0,0,,How will they get past it?
 Dialogue: 0,0:10:57.38,0:11:00.30,NanohaW Dialogue1,Hayate,0,0,0,,They’ll have to show their experience and guts.
 Dialogue: 0,0:11:06.88,0:11:08.15,NanohaW Dialogue1,Subaru,0,0,0,,Let’s do it to it!
@@ -286,8 +286,8 @@ Dialogue: 0,0:14:44.07,0:14:45.14,NanohaW Dialogue1,Tia,0,0,0,,Shut up!
 Dialogue: 0,0:14:45.14,0:14:48.51,NanohaW Dialogue1,Tia,0,0,0,,I’m telling you that at the next exam I will pass by myself!
 Dialogue: 0,0:14:48.51,0:14:49.76,NanohaW Dialogue1,Subaru,0,0,0,,The next one?
 Dialogue: 0,0:14:49.76,0:14:50.95,NanohaW Dialogue1,Subaru,0,0,0,,That’s more than a half a year away!
-Dialogue: 0,0:14:50.95,0:14:53.36,NanohaW Dialogue1,Tia,0,0,0,,Rather than being a load and dragging you down,
-Dialogue: 0,0:14:53.36,0:14:55.52,NanohaW Dialogue1,Tia,0,0,0,,I feel more comfortable doing it this way.
+Dialogue: 0,0:14:50.95,0:14:53.36,NanohaW Dialogue1,Tia,0,0,0,,I’m more comfortable doing it this way
+Dialogue: 0,0:14:53.36,0:14:55.52,NanohaW Dialogue1,Tia,0,0,0,,than with being a load and dragging you down.
 Dialogue: 0,0:14:55.52,0:14:57.06,NanohaW Dialogue1,Tia,0,0,0,,If you understand that, then hurr—
 Dialogue: 0,0:15:00.33,0:15:01.54,NanohaW Dialogue1,Tia,0,0,0,,Look, just hurry up!
 Dialogue: 0,0:15:02.44,0:15:05.75,NanohaW Dialogue1,Subaru,0,0,0,,Tia, I told you before, didn’t I?
@@ -304,7 +304,7 @@ Dialogue: 0,0:15:34.00,0:15:35.81,NanohaW Dialogue1,Subaru,0,0,0,,your anxiety a
 Dialogue: 0,0:15:35.81,0:15:36.99,NanohaW Dialogue1,Subaru,0,0,0,,I know them too well!
 Dialogue: 0,0:15:38.50,0:15:42.58,NanohaW Dialogue1,Subaru,0,0,0,,That’s why, in a place like this, right in front of me,
 Dialogue: 0,0:15:42.58,0:15:45.07,NanohaW Dialogue1,Subaru,0,0,0,,to see you fail to achieve\Nyour dream when it’s so close to you...
-Dialogue: 0,0:15:45.07,0:15:45.94,NanohaW Dialogue1,Subaru,0,0,0,,I don’t want that!
+Dialogue: 0,0:15:45.07,0:15:45.94,NanohaW Dialogue1,Subaru,0,0,0,,it hurts!
 Dialogue: 0,0:15:45.94,0:15:48.88,NanohaW Dialogue1,Subaru,0,0,0,,And I definitely don’t want to finish this alone!
 Dialogue: 0,0:15:48.88,0:15:50.90,NanohaW Dialogue1,Tia,0,0,0,,Then what are you going to do?
 Dialogue: 0,0:15:50.90,0:15:52.80,NanohaW Dialogue1,Tia,0,0,0,,Trying to cover for someone who can’t even run,
@@ -317,10 +317,10 @@ Dialogue: 0,0:16:05.97,0:16:07.13,NanohaW Dialogue1,Tia,0,0,0,,Really?
 Dialogue: 0,0:16:07.13,0:16:15.17,NanohaW Dialogue1,Subaru,0,0,0,,Oh, uh... well... see, it might be a little hard,\Nand it’ll require you to push yourself a little bit.
 Dialogue: 0,0:16:15.17,0:16:18.06,NanohaW Dialogue1,Subaru,0,0,0,,When I think about it, it might be a bit too reckless...
 Dialogue: 0,0:16:18.06,0:16:24.00,NanohaW Dialogue1,Subaru,0,0,0,,How do I say it? But if you’re okay with it, then—
-Dialogue: 0,0:16:24.00,0:16:25.95,NanohaW Dialogue1,Tia,0,0,0,,This is so annoying!
-Dialogue: 0,0:16:26.84,0:16:30.88,NanohaW Dialogue1,Tia,0,0,0,,No matter what you’re going to say,\Nyou’ll still follow your selfish decision, right?
-Dialogue: 0,0:16:30.88,0:16:33.95,NanohaW Dialogue1,Tia,0,0,0,,You’re going to make me go along with your selfishness anyway, right?
-Dialogue: 0,0:16:33.95,0:16:36.09,NanohaW Dialogue1,Tia,0,0,0,,If so, then just say it clearly!
+Dialogue: 0,0:16:24.00,0:16:25.95,NanohaW Dialogue1,Tia,0,0,0,,You’re getting on my nerves!
+Dialogue: 0,0:16:26.84,0:16:30.88,NanohaW Dialogue1,Tia,0,0,0,,No matter what you’re going to say,\Nyou’re still going to be selfish about it, right?
+Dialogue: 0,0:16:30.88,0:16:33.95,NanohaW Dialogue1,Tia,0,0,0,,You’re going to make me go along with what {\i1}you{\i0} want anyway, right?
+Dialogue: 0,0:16:33.95,0:16:36.09,NanohaW Dialogue1,Tia,0,0,0,,If so, then just say it to my face!
 Dialogue: 0,0:16:39.05,0:16:41.55,NanohaW Dialogue1,Subaru,0,0,0,,If we do it together, we can pull it off.
 Dialogue: 0,0:16:41.55,0:16:43.01,NanohaW Dialogue1,Subaru,0,0,0,,Believe in me, Tia.
 Dialogue: 0,0:16:45.88,0:16:48.50,NanohaW Dialogue1,Tia,0,0,0,,3 minutes and 40 seconds remaining.
@@ -339,8 +339,8 @@ Dialogue: 0,0:17:41.93,0:17:44.51,NanohaW Dialogue1,Tia,0,0,0,,This uses up an e
 Dialogue: 0,0:17:44.51,0:17:47.07,NanohaW Dialogue1,Tia,0,0,0,,I can’t hold it for too long.
 Dialogue: 0,0:17:47.07,0:17:52.00,NanohaW Narration1,Tia,0,0,0,,Finish it with a single blow,\Nso we’ll both have it easier.
 Dialogue: 0,0:17:52.00,0:17:53.20,NanohaW Dialogue1,Tia,0,0,0,,Right.
-Dialogue: 0,0:17:57.58,0:18:01.59,NanohaW Dialogue1,Subaru,0,0,0,,I can’t fly in the sky,\N and I don’t have Tia’s technique.
-Dialogue: 0,0:18:01.59,0:18:04.59,NanohaW Dialogue1,Subaru,0,0,0,,I don’t have any decently ranged attacks, either.
+Dialogue: 0,0:17:57.58,0:18:01.59,NanohaW Dialogue1,Subaru,0,0,0,,I can’t fly, and I don’t have Tia’s technique.
+Dialogue: 0,0:18:01.59,0:18:04.59,NanohaW Dialogue1,Subaru,0,0,0,,I don’t have any decently-ranged attacks, either.
 Dialogue: 0,0:18:04.59,0:18:10.02,NanohaW Dialogue1,Subaru,0,0,0,,The only thing I can do is to run full-speed and finish it with one shot at close range.
 Dialogue: 0,0:18:13.94,0:18:18.20,NanohaW Dialogue1,Subaru,0,0,0,,After all, I’ve decided to be like {\i1}her!{\i0}
 Dialogue: 0,0:18:18.20,0:18:19.36,NanohaW Dialogue1,Subaru,0,0,0,,To be strong!
@@ -369,17 +369,17 @@ Dialogue: 0,0:21:40.04,0:21:41.15,NanohaW Dialogue1,Rein,0,0,0,,Grrr...
 Dialogue: 0,0:21:41.15,0:21:44.07,NanohaW Dialogue1,Rein,0,0,0,,You two! Minus points for dangerous maneuvers!
 Dialogue: 0,0:21:44.07,0:21:48.18,NanohaW Dialogue1,Rein,0,0,0,,You should try your best, but not if you get hurt!
 Dialogue: 0,0:21:48.18,0:21:50.95,NanohaW Dialogue1,Rein,0,0,0,,Because of that, you’ll be no good as mages!
-Dialogue: 0,0:21:51.91,0:21:52.89,NanohaW Dialogue1,Tia,0,0,0,,Tiny...
+Dialogue: 0,0:21:51.91,0:21:52.89,NanohaW Dialogue1,Tia,0,0,0,,So tiny...
 Dialogue: 0,0:21:52.89,0:21:54.40,NanohaW Dialogue1,Rein,0,0,0,,Honestly!
 Dialogue: 0,0:21:55.67,0:21:56.39,NanohaW Dialogue1,Nano,0,0,0,,Now, now...
 Dialogue: 0,0:21:58.25,0:22:01.17,NanohaW Dialogue1,Nano,0,0,0,,That was a little surprising,\Nbut it’s good to know you’re safe.
 Dialogue: 0,0:22:02.53,0:22:04.77,NanohaW Dialogue1,Nano,0,0,0,,For the time being, the exam is over.
 Dialogue: 0,0:22:04.77,0:22:05.63,NanohaW Dialogue1,Nano,0,0,0,,Thanks for the hard work.
-Dialogue: 0,0:22:13.68,0:22:15.63,NanohaW Dialogue1,Nano,0,0,0,,Rein, thanks for the hard work also.
+Dialogue: 0,0:22:13.68,0:22:15.63,NanohaW Dialogue1,Nano,0,0,0,,Rein, thanks for the hard work too.
 Dialogue: 0,0:22:15.63,0:22:17.82,NanohaW Dialogue1,Nano,0,0,0,,You’ve become a real proctor.
 Dialogue: 0,0:22:17.82,0:22:20.99,NanohaW Dialogue1,Rein,0,0,0,,Yaaaaay! Thank you so much, Nanoha!
 Dialogue: 0,0:22:24.93,0:22:27.78,NanohaW Dialogue1,Nano,0,0,0,,Well, let’s leave the details for later.
-Dialogue: 0,0:22:28.57,0:22:30.23,NanohaW Dialogue1,Nano,0,0,0,,Private First Class Lanster.
+Dialogue: 0,0:22:28.57,0:22:30.23,NanohaW Dialogue1,Nano,0,0,0,,P.F.C. Lanster.
 Dialogue: 0,0:22:30.23,0:22:31.49,NanohaW Dialogue1,Tia,0,0,0,,Yes, ma’am?
 Dialogue: 0,0:22:31.49,0:22:33.11,NanohaW Dialogue1,Nano,0,0,0,,You injured your foot, didn’t you?
 Dialogue: 0,0:22:33.11,0:22:35.11,NanohaW Dialogue1,Nano,0,0,0,,I’ll treat it. Can you take off your boot?
