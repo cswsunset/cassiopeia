@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 8
-Active Line: 9
-Video Position: 1358
+Scroll Position: 181
+Active Line: 210
+Video Position: 16907
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,8 +31,8 @@ Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000
 Style: Nanoha Insert Song,Noto Serif,48,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,Noto Serif,72,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0,0,1,0,0,5,18,18,40,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
+Style: Nanoha Title1,Utopia Std Semibold Subhead,69,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,5,18,18,40,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
 Style: Nanona A’s Logo2,Noto Sans,64,&H0021AEEA,&H000000FF,&H00A9F7FF,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
@@ -120,7 +120,7 @@ Dialogue: 0,0:02:49.00,0:02:52.86,Nanoha Dialogue1,,0,0,0,,The black mass below 
 Dialogue: 0,0:02:52.86,0:02:56.63,Nanoha Dialogue1,,0,0,0,,Don’t close in recklessly until Chrono gets there!
 Dialogue: 0,0:02:57.80,0:02:58.86,Nanoha Dialogue1,,0,0,0,,Okay!
 Dialogue: 0,0:02:58.85,0:03:04.89,Nanoha Title1,,0,0,0,,{\blur0.5\pos(476,480)}Night’s End, Journey’s End
-Dialogue: 0,0:03:12.88,0:03:15.95,Nanoha Dialogue1,,0,0,0,,Enable admistrator rights.
+Dialogue: 0,0:03:12.88,0:03:15.95,Nanoha Dialogue1,,0,0,0,,Enable administrator rights.
 Dialogue: 0,0:03:15.95,0:03:19.88,Nanoha Dialogue1,,0,0,0,,I’ve interrupted the protection program’s progression.
 Dialogue: 0,0:03:19.88,0:03:23.94,Nanoha Dialogue1,,0,0,0,,I can delay it from going out of control\Nfor a couple of minutes.
 Dialogue: 0,0:03:23.94,0:03:24.96,Nanoha Dialogue1,,0,0,0,,Got it.
@@ -132,7 +132,7 @@ Dialogue: 0,0:04:19.15,0:04:20.68,Nanoha Dialogue1,,0,0,0,,Vita!
 Dialogue: 0,0:04:20.68,0:04:22.14,Nanoha Dialogue1,,0,0,0,,Signum!
 Dialogue: 0,0:04:23.00,0:04:26.91,Nanoha Dialogue1,,0,0,0,,We are the knights who gather before the Mistress of the Night Sky.
 Dialogue: 0,0:04:26.91,0:04:31.19,Nanoha Dialogue1,,0,0,0,,As long as our mistress exists, our souls will never extinguish.
-Dialogue: 0,0:04:31.19,0:04:35.98,Nanoha Dialogue1,,0,0,0,,As long as we have life in our bodies,\Nwe will stand by each other.
+Dialogue: 0,0:04:31.19,0:04:35.98,Nanoha Dialogue1,,0,0,0,,As long as we have life in our bodies,\Nwe will stand by her side.
 Dialogue: 0,0:04:35.98,0:04:38.03,Nanoha Dialogue1,,0,0,0,,We will always exist before our mistress,
 Dialogue: 0,0:04:38.03,0:04:42.55,Nanoha Dialogue1,,0,0,0,,Hayate Yagami,\NQueen of the Night Sky.
 Dialogue: 0,0:04:42.55,0:04:46.61,Nanoha Dialogue1,,0,0,0,,Reinforce, bestow upon me\Nmy staff and armor.
@@ -200,7 +200,7 @@ Dialogue: 0,0:08:45.37,0:08:49.38,Nanoha Dialogue1,,0,0,0,,Gosh, it’s getting 
 Dialogue: 0,0:08:49.38,0:08:52.84,Nanoha Dialogue1,,0,0,0,,Can’t everyone just, like, blast it?
 Dialogue: 0,0:08:52.84,0:08:54.57,Nanoha Dialogue1,,0,0,0,,A-Arf...
 Dialogue: 0,0:08:54.57,0:08:57.82,Nanoha Dialogue1,,0,0,0,,It’s not that simple...
-Dialogue: 0,0:09:00.30,0:09:03.39,Nanoha Dialogue1,,0,0,0,,Blast it, huh....
+Dialogue: 0,0:09:00.30,0:09:03.39,Nanoha Dialogue1,,0,0,0,,Blast it, huh...
 Dialogue: 0,0:09:03.39,0:09:07.03,Nanoha Dialogue1,,0,0,0,,If we shoot it here,\Nthen the damage will be huge.
 Dialogue: 0,0:09:07.03,0:09:09.29,Nanoha Dialogue1,,0,0,0,,But if it’s not here, then...
 Dialogue: 0,0:09:12.13,0:09:13.19,Nanoha Dialogue1,,0,0,0,,Chrono!
@@ -250,7 +250,7 @@ Dialogue: 0,0:11:28.00,0:11:31.21,Nanoha Dialogue1,,0,0,0,,The Book of Darkness\
 Dialogue: 0,0:11:31.21,0:11:34.44,Nanoha Dialogue1,,0,0,0,,The curse ate away many lives
 Dialogue: 0,0:11:34.45,0:11:38.80,Nanoha Dialogue1,,0,0,0,,and ruined the lives of those who got involved.
 Dialogue: 0,0:11:38.80,0:11:45.16,Nanoha Dialogue1,,0,0,0,,Because of that, my mother and many victims’ families
-Dialogue: 0,0:11:45.16,0:11:48.81,Nanoha Dialogue1,,0,0,0,,had to live unfortunate lives like this.
+Dialogue: 0,0:11:45.16,0:11:48.81,Nanoha Dialogue1,,0,0,0,,had to live such unfortunate lives.
 Dialogue: 0,0:11:48.81,0:11:52.81,Nanoha Dialogue1,,0,0,0,,I’m sure it’s the same with you and the Liese twins.
 Dialogue: 0,0:11:52.81,0:11:56.36,Nanoha Dialogue1,,0,0,0,,We can’t change the past we’ve lost.
 Dialogue: 0,0:11:56.36,0:11:57.73,Nanoha Device1,,0,0,0,,Start up.

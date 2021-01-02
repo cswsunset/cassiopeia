@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 9
-Active Line: 10
-Video Position: 1358
+Scroll Position: 373
+Active Line: 401
+Video Position: 30986
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Nanoha Device3,Noto Sans,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0,0,1,2.1,0,4,14,14,13,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
@@ -212,8 +212,8 @@ Dialogue: 0,0:08:28.97,0:08:31.14,Nanoha Dialogue1,,0,0,0,,Oh, right! Do you kno
 Dialogue: 0,0:08:31.14,0:08:34.17,Nanoha Dialogue1,,0,0,0,,He’s getting interviewed with Nanoha and Fate.
 Dialogue: 0,0:08:34.17,0:08:37.64,Nanoha Dialogue1,,0,0,0,,I think by a bigwig from the Bureau.
 Dialogue: 0,0:08:37.64,0:08:39.16,Nanoha Dialogue1,,0,0,0,,I see.
-Dialogue: 1,0:08:42.32,0:08:46.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(702,0)\an5\b1\pos(476,517.5)\bord0}Chief Advisor, Time-Space Administrative Bureau\NGil Graham
-Dialogue: 0,0:08:42.32,0:08:46.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(702,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,702,\1a&H00&)}Chief Advisor, Time-Space Administrative Bureau\NGil Graham
+Dialogue: 1,0:08:42.32,0:08:46.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(702,0)\an5\b1\pos(476,517.5)\bord0}Advisor, Time-Space Administrative Bureau\NGil Graham
+Dialogue: 0,0:08:42.32,0:08:46.35,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(702,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,702,\1a&H00&)}Advisor, Time-Space Administrative Bureau\NGil Graham
 Dialogue: 0,0:08:47.19,0:08:48.86,Nanoha Dialogue1,,0,0,0,,Excuse me.
 Dialogue: 0,0:08:49.41,0:08:51.84,Nanoha Dialogue1,,0,0,0,,It’s been a while, Chrono.
 Dialogue: 0,0:08:51.84,0:08:54.22,Nanoha Dialogue1,,0,0,0,,It has been quite a while.
@@ -229,9 +229,9 @@ Dialogue: 0,0:09:18.59,0:09:20.97,Nanoha Dialogue1,,0,0,0,,and later, he became\
 Dialogue: 0,0:09:20.97,0:09:23.29,Nanoha Dialogue1,,0,0,0,,He’s a tremendously important guy!
 Dialogue: 0,0:09:23.29,0:09:25.35,Nanoha Dialogue1,,0,0,0,,Yeah, but he’s a good guy.
 Dialogue: 0,0:09:25.35,0:09:27.42,Nanoha Dialogue1,,0,0,0,,He’s really nice too.
-Dialogue: 0,0:09:29.63,0:09:32.39,Nanoha Dialogue1,,0,0,0,,Nanoha, you’re Japanese, correct?
+Dialogue: 0,0:09:29.63,0:09:32.39,Nanoha Dialogue1,,0,0,0,,Nanoha, you’re from Japan, correct?
 Dialogue: 0,0:09:32.39,0:09:35.46,Nanoha Dialogue1,,0,0,0,,The scenery of Japan really takes me back.
-Dialogue: 0,0:09:36.34,0:09:40.54,Nanoha Dialogue1,,0,0,0,,I am also from\Nthe same world as you. I’m British.
+Dialogue: 0,0:09:36.34,0:09:40.54,Nanoha Dialogue1,,0,0,0,,I am also from the same world\Nas you—from England, to be exact.
 Dialogue: 0,0:09:41.61,0:09:43.34,Nanoha Dialogue1,,0,0,0,,Is that so?
 Dialogue: 0,0:09:43.34,0:09:47.06,Nanoha Dialogue1,,0,0,0,,Most people on that world\Nhave no magical potential.
 Dialogue: 0,0:09:47.06,0:09:49.92,Nanoha Dialogue1,,0,0,0,,But once in a while, there is someone
@@ -284,7 +284,7 @@ Dialogue: 0,0:12:19.80,0:12:22.08,Nanoha Dialogue1,,0,0,0,,It was a very pure bl
 Dialogue: 0,0:12:22.08,0:12:24.80,Nanoha Dialogue1,,0,0,0,,She must have learned from a great master.
 Dialogue: 0,0:12:25.77,0:12:27.74,Nanoha Dialogue1,,0,0,0,,If not for the difference in weapon quality,
 Dialogue: 0,0:12:27.74,0:12:29.81,Nanoha Dialogue1,,0,0,0,,I might have had a harder time against her.
-Dialogue: 0,0:12:29.81,0:12:33.81,Nanoha Dialogue1,,0,0,0,,But even so, you wouldn’t have lost.
+Dialogue: 0,0:12:29.81,0:12:33.81,Nanoha Dialogue1,,0,0,0,,But even so, you would still have prevailed.
 Dialogue: 0,0:12:34.75,0:12:36.31,Nanoha Dialogue1,,0,0,0,,That’s true.
 Dialogue: 0,0:12:40.12,0:12:42.32,Nanoha Dialogue1,,0,0,0,,Thank you, Shamal.
 Dialogue: 0,0:12:42.32,0:12:44.02,Nanoha Dialogue1,,0,0,0,,It feels so nice!
@@ -297,7 +297,7 @@ Dialogue: 0,0:13:22.80,0:13:24.18,Nanoha Dialogue1,,0,0,0,,Commodore Lindy.
 Dialogue: 0,0:13:26.00,0:13:29.20,Nanoha Dialogue1,,0,0,0,,Family? Mrs. Lindy and Fate?
 Dialogue: 0,0:13:29.20,0:13:32.37,Nanoha Dialogue1,,0,0,0,,Yeah. It hasn’t been set in stone yet,
 Dialogue: 0,0:13:32.37,0:13:35.00,Nanoha Dialogue1,,0,0,0,,but they’re talking about adoption.
-Dialogue: 0,0:13:35.00,0:13:39.00,Nanoha Dialogue1,,0,0,0,,Because of the Presea Incident,\NFate has become all alone in this world.
+Dialogue: 0,0:13:35.00,0:13:39.00,Nanoha Dialogue1,,0,0,0,,Because of the Presea Incident,\NFate has been left an orphan.
 Dialogue: 0,0:13:39.00,0:13:42.52,Nanoha Dialogue1,,0,0,0,,The Captain asked her,\N“Would you like to be my child?”
 Dialogue: 0,0:13:42.52,0:13:46.01,Nanoha Dialogue1,,0,0,0,,Fate has all sorts of things to work through with Presea.
 Dialogue: 0,0:13:46.01,0:13:50.08,Nanoha Dialogue1,,0,0,0,,For now, we’re all waiting on her feelings to settle down.
@@ -443,7 +443,7 @@ Dialogue: 0,0:21:26.08,0:21:28.37,Nanoha Dialogue1,,0,0,0,,Guide me, Klarwind.
 Dialogue: 0,0:21:28.38,0:21:29.28,Nanoha Device1,,0,0,0,,Start up.
 Dialogue: 0,0:21:28.38,0:21:29.28,Nanoha Device2,,0,0,0,,{\pos(476,627)}Anfang.
 Dialogue: 0,0:21:29.84,0:21:31.87,Nanoha Dialogue1,,0,0,0,,Let’s do it, Graf Eisen!
-Dialogue: 0,0:21:31.87,0:21:32.66,Nanoha Device1,,0,0,0,,Move!
+Dialogue: 0,0:21:31.87,0:21:32.66,Nanoha Device1,,0,0,0,,Move out!
 Dialogue: 0,0:21:31.87,0:21:32.66,Nanoha Device2,,0,0,0,,{\pos(476,627)}Bewegung!
 Dialogue: 0,0:21:56.36,0:21:59.48,Nanoha Dialogue1,,0,0,0,,Then, meet back here again before dawn!
 Dialogue: 0,0:21:59.48,0:22:02.16,Nanoha Dialogue1,,0,0,0,,Vita, don’t get too hot-headed.

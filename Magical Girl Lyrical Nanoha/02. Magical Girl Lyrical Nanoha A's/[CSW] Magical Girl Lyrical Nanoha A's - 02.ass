@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 19
-Active Line: 20
-Video Position: 1474
+Scroll Position: 292
+Active Line: 308
+Video Position: 32929
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,7 +31,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
@@ -104,16 +104,16 @@ Dialogue: 3,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos
 Dialogue: 2,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
 Dialogue: 1,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
 Dialogue: 0,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
-Dialogue: 3,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
+Dialogue: 3,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
 Dialogue: 0,0:02:35.46,0:02:38.16,Nanoha Dialogue1,,0,0,0,,I see, so that’s what it was.
 Dialogue: 0,0:02:38.16,0:02:41.46,Nanoha Dialogue1,,0,0,0,,Yeah... right, and then...
 Dialogue: 0,0:02:41.46,0:02:43.04,Nanoha Dialogue1,,0,0,0,,Yeah, yeah...
@@ -197,7 +197,7 @@ Dialogue: 0,0:08:59.38,0:09:03.27,Nanoha Dialogue1,,0,0,0,,Fate... Miss Arf...
 Dialogue: 0,0:09:03.27,0:09:05.38,Nanoha Dialogue1,,0,0,0,,This isn’t good! I have to help them!
 Dialogue: 0,0:09:06.48,0:09:09.40,Nanoha Dialogue1,,0,0,0,,Melodious rhythm, turn into light!
 Dialogue: 0,0:09:12.00,0:09:15.70,Nanoha Dialogue1,,0,0,0,,Within the circle of healing, grant the protecton of steel!
-Dialogue: 0,0:09:20.82,0:09:24.07,Nanoha Dialogue1,,0,0,0,,It’s a barrier magic that heals and protects.
+Dialogue: 0,0:09:20.82,0:09:24.07,Nanoha Dialogue1,,0,0,0,,It’s a barrier spell that heals and protects.
 Dialogue: 0,0:09:24.07,0:09:26.60,Nanoha Dialogue1,,0,0,0,,Nanoha, whatever you do,\Ndon’t step outside of here, okay?
 Dialogue: 0,0:09:26.60,0:09:27.48,Nanoha Dialogue1,,0,0,0,,Okay.
 Dialogue: 0,0:09:37.01,0:09:38.45,Nanoha Dialogue1,,0,0,0,,What’s wrong, Vita?
@@ -259,7 +259,7 @@ Dialogue: 0,0:14:07.56,0:14:09.93,Nanoha Dialogue1,,0,0,0,,Pierce through! Fire!
 Dialogue: 0,0:14:22.60,0:14:25.34,Nanoha Dialogue1,,0,0,0,,Your instincts as a mage are not bad.
 Dialogue: 0,0:14:25.97,0:14:29.83,Nanoha Dialogue1,,0,0,0,,But, in order to challenge a Belkan knight to a duel,
 Dialogue: 0,0:14:29.83,0:14:31.14,Nanoha Dialogue1,,0,0,0,,this is still not enough!
-Dialogue: 0,0:14:43.43,0:14:45.75,Nanoha Dialogue1,,0,0,0,,Lævateinn! Slam the blade and slice!
+Dialogue: 0,0:14:43.43,0:14:45.75,Nanoha Dialogue1,,0,0,0,,Lævateinn! Hack and slash!
 Dialogue: 0,0:14:46.22,0:14:47.38,Nanoha Device2,,0,0,0,,{\an5\pos(476,579)}Jawohl!
 Dialogue: 0,0:14:46.22,0:14:47.38,Nanoha Device1,,0,0,20,,Roger!
 Dialogue: 0,0:14:56.50,0:14:57.85,Nanoha Dialogue1,,0,0,0,,Fate!
@@ -276,8 +276,8 @@ Dialogue: 0,0:15:46.34,0:15:51.39,Nanoha Dialogue1,,0,0,0,,Then stay still. If y
 Dialogue: 0,0:15:51.39,0:15:52.75,Nanoha Dialogue1,,0,0,0,,Who would?!
 Dialogue: 0,0:15:54.82,0:15:56.42,Nanoha Dialogue1,,0,0,0,,Good fighting spirit.
 Dialogue: 0,0:15:57.09,0:15:58.99,Nanoha Dialogue1,,0,0,0,,I am a Belkan knight.
-Dialogue: 0,0:15:58.99,0:16:02.48,Nanoha Dialogue1,,0,0,0,,Leader of the {\i1}Wolkenritter{\i0}, Signum.
-Dialogue: 0,0:15:58.99,0:16:02.48,Nanoha Device2,,0,0,0,,{\pos(529,627)}Cloud Knights
+Dialogue: 0,0:15:58.99,0:16:02.48,Nanoha Dialogue1,,0,0,0,,General of the {\i1}Wolkenritter{\i0}, Signum.
+Dialogue: 0,0:15:58.99,0:16:02.48,Nanoha Device2,,0,0,0,,{\pos(535,627)}Cloud Knights
 Dialogue: 0,0:16:02.48,0:16:05.93,Nanoha Dialogue1,,0,0,0,,And my sword, Lævateinn.
 Dialogue: 0,0:16:05.93,0:16:07.73,Nanoha Dialogue1,,0,0,0,,What is your name?
 Dialogue: 0,0:16:09.14,0:16:11.44,Nanoha Dialogue1,,0,0,0,,A mage from Midchilda,
@@ -319,7 +319,7 @@ Dialogue: 0,0:19:10.04,0:19:12.54,Nanoha Dialogue1,,0,0,0,,Nanoha?
 Dialogue: 0,0:19:34.02,0:19:37.52,Nanoha Dialogue1,,0,0,0,,Oh no... I missed!
 Dialogue: 0,0:19:41.66,0:19:43.46,Nanoha Dialogue1,,0,0,0,,Nanoha!
 Dialogue: 0,0:19:46.62,0:19:49.44,Nanoha Dialogue1,,0,0,0,,Linker Core, captured.
-Dialogue: 0,0:19:51.46,0:19:53.46,Nanoha Dialogue1,,0,0,0,,Begin assimilation!
+Dialogue: 0,0:19:51.46,0:19:53.46,Nanoha Dialogue1,,0,0,0,,Begin collection!
 Dialogue: 0,0:19:54.74,0:19:55.94,Nanoha Device2,,0,0,0,,{\an5\pos(474.678,579)}Sammlung
 Dialogue: 0,0:19:54.74,0:19:55.94,Nanoha Device1,,0,0,20,,Collecting
 Dialogue: 0,0:20:23.36,0:20:25.28,Nanoha Device1,,0,0,0,,Count 0.
@@ -348,7 +348,7 @@ Dialogue: 0,0:22:36.79,0:22:39.03,Nanoha Dialogue1,,0,0,0,,Oh, man!
 Dialogue: 0,0:22:40.80,0:22:45.50,Nanoha Dialogue1,,0,0,0,,I’m sorry, Chrono. We screwed up.
 Dialogue: 0,0:22:47.14,0:22:48.72,Nanoha Dialogue1,,0,0,0,,Chrono?
 Dialogue: 0,0:22:49.96,0:22:53.40,Nanoha Dialogue1,,0,0,0,,A first-class artifact\Nregistered on the search list...
-Dialogue: 0,0:22:53.40,0:22:56.46,Nanoha Dialogue1,,0,0,0,,Lost Logia, the Book of Darkness...
+Dialogue: 0,0:22:53.40,0:22:56.46,Nanoha Dialogue1,,0,0,0,,A Lost Logia, the Book of Darkness...
 Dialogue: 0,0:23:00.11,0:23:03.38,Nanoha Dialogue1,,0,0,0,,Chrono, you recognize it?
 Dialogue: 0,0:23:03.38,0:23:05.05,Nanoha Dialogue1,,0,0,0,,Yeah,
 Dialogue: 0,0:23:06.56,0:23:08.08,Nanoha Dialogue1,,0,0,0,,I recognize it all right.

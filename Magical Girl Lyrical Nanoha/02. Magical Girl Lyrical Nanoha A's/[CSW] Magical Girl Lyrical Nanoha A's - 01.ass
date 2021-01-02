@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 10
-Video Position: 441
+Scroll Position: 88
+Active Line: 90
+Video Position: 7392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Nanoha Handwriting,Cheyenne Hand Bold,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Clock,Digital-7,18,&H00B26E3E,&H000000FF,&H00000000,&H94000000,-1,0,0,0,100,100,0,0,1,0,1.5,4,14,14,13,1
@@ -132,13 +132,13 @@ Dialogue: 0,0:04:54.73,0:04:57.24,Nanoha Dialogue1,,0,0,0,,Okay, to finish off\N
 Dialogue: 0,0:04:57.24,0:04:59.51,Nanoha Dialogue1,,0,0,0,,Let’s try shooting control.
 Dialogue: 0,0:04:59.51,0:05:00.59,Nanoha Device1,,0,0,20,,All right.
 Dialogue: 0,0:05:01.48,0:05:02.76,Nanoha Dialogue1,,0,0,0,,Lyrical, magical!
-Dialogue: 0,0:05:05.28,0:05:08.28,Nanoha Dialogue1,,0,0,0,,Glimmers to be blessings, come to my hands.
-Dialogue: 0,0:05:08.28,0:05:10.35,Nanoha Dialogue1,,0,0,0,,Ring and echo under the guidance.
+Dialogue: 0,0:05:05.28,0:05:08.28,Nanoha Dialogue1,,0,0,0,,Blessing of light, come to my hands.
+Dialogue: 0,0:05:08.28,0:05:10.35,Nanoha Dialogue1,,0,0,0,,Ring and echo under my guidance.
 Dialogue: 0,0:05:13.06,0:05:14.41,Nanoha Dialogue1,,0,0,0,,{\b1}Divine Shooter{\b0}
 Dialogue: 0,0:05:14.41,0:05:16.21,Nanoha Dialogue1,,0,0,0,,Shoot!
 Dialogue: 0,0:05:20.46,0:05:21.69,Nanoha Dialogue1,,0,0,0,,Control...
 Dialogue: 0,0:05:27.00,0:05:31.92,Nanoha Device1,,0,0,0,,18... 19... 20... 21...
-Dialogue: 0,0:05:31.93,0:05:32.89,Nanoha Dialogue1,,0,0,0,,Accelerate.
+Dialogue: 0,0:05:31.93,0:05:32.89,Nanoha Dialogue1,,0,0,0,,Faster.
 Dialogue: 0,0:05:39.23,0:05:47.02,Nanoha Device1,,0,0,0,,55... 60... 64... 68... 70... 73...
 Dialogue: 0,0:05:49.74,0:05:52.37,Nanoha Device1,,0,0,0,,98... 100.
 Dialogue: 0,0:05:55.87,0:05:57.00,Nanoha Dialogue1,,0,0,0,,Last one!
@@ -151,8 +151,8 @@ Dialogue: 0,0:06:26.51,0:06:28.81,Nanoha Narration1,,0,0,0,,I became a mage.
 Dialogue: 0,0:06:29.49,0:06:32.66,Nanoha Dialogue1,,0,0,0,,If you were scoring today’s practice,\Nwhat would you give it?
 Dialogue: 0,0:06:32.69,0:06:34.22,Nanoha Device1,,0,0,20,,About 80 points.
 Dialogue: 0,0:06:35.06,0:06:36.22,Nanoha Dialogue1,,0,0,0,,I see...
-Dialogue: 0,0:06:44.71,0:06:47.47,Nanoha Narration1,,0,0,0,,All the people back then who gave me magic,
-Dialogue: 0,0:06:47.47,0:06:50.22,Nanoha Narration1,,0,0,0,,many new introductions, and courage
+Dialogue: 0,0:06:44.71,0:06:47.47,Nanoha Narration1,,0,0,0,,All the people back then\Nwho introduced me to magic,
+Dialogue: 0,0:06:47.47,0:06:50.22,Nanoha Narration1,,0,0,0,,so many new friends, and courage
 Dialogue: 0,0:06:50.22,0:06:53.92,Nanoha Narration1,,0,0,0,,aren’t with me right now.
 Dialogue: 0,0:06:55.77,0:06:58.81,Nanoha Narration1,,0,0,0,,But I’m sure that I’ll see them again soon.
 Dialogue: 0,0:07:07.61,0:07:09.65,Nanoha Dialogue1,,0,0,0,,Nanoha, there’s mail for you.
@@ -209,7 +209,7 @@ Dialogue: 0,0:09:35.84,0:09:36.68,Nanoha Dialogue1,,0,0,0,,What is it?
 Dialogue: 0,0:09:36.68,0:09:38.89,Nanoha Dialogue1,,0,0,0,,Who’s Ferret Boy, huh, who?!
 Dialogue: 0,0:09:38.89,0:09:40.70,Nanoha Dialogue1,,0,0,0,,That would be you. What about it?
 Dialogue: 0,0:09:45.14,0:09:48.52,Nanoha Dialogue1,,0,0,0,,It’s true that I’m in my animal form often,
-Dialogue: 0,0:09:48.54,0:09:51.19,Nanoha Dialogue1,,0,0,0,,but, you know, I have a fine name, Yuuno Scrya!
+Dialogue: 0,0:09:48.54,0:09:51.19,Nanoha Dialogue1,,0,0,0,,but, you know, I have a perfectly fine name. It’s Yuuno Scrya!
 Dialogue: 0,0:09:51.19,0:09:53.03,Nanoha Dialogue1,,0,0,0,,Yuuno, chill out.
 Dialogue: 0,0:09:53.03,0:09:55.95,Nanoha Dialogue1,,0,0,0,,Chrono, don’t make too much fun of him.
 Dialogue: 0,0:09:55.95,0:09:57.10,Nanoha Dialogue1,,0,0,0,,It’s all right.
@@ -322,7 +322,7 @@ Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device1,,0,0,0,,Flying Swallow
 Dialogue: 0,0:19:09.46,0:19:11.60,Nanoha Device2,,0,0,0,,{\pos(476,627)}Schwalbefliegen
 Dialogue: 0,0:19:25.56,0:19:28.75,Nanoha Dialogue1,,0,0,0,,I can’t think of why\Nsomeone would want to attack me.
 Dialogue: 0,0:19:29.30,0:19:30.60,Nanoha Dialogue1,,0,0,0,,Where are you from?
-Dialogue: 0,0:19:30.60,0:19:32.33,Nanoha Dialogue1,,0,0,0,,Why the heck\Nare you doing such a thing?
+Dialogue: 0,0:19:30.60,0:19:32.33,Nanoha Dialogue1,,0,0,0,,Why the heck are you doing this?
 Dialogue: 0,0:19:35.22,0:19:38.24,Nanoha Dialogue1,,0,0,0,,If you don’t tell me,\NI can’t understand!
 Dialogue: 0,0:19:47.99,0:19:50.02,Nanoha Dialogue1,,0,0,0,,Kiss my ass!
 Dialogue: 0,0:19:52.82,0:19:53.85,Nanoha Device1,,0,0,0,,Flash Move
@@ -347,7 +347,7 @@ Dialogue: 0,0:22:55.18,0:22:56.56,Nanoha Narration1,,0,0,0,,No way...
 Dialogue: 0,0:22:56.56,0:22:57.77,Nanoha Narration1,,0,0,0,,Yuuno...
 Dialogue: 0,0:22:57.77,0:22:59.19,Nanoha Narration1,,0,0,0,,Chrono...
 Dialogue: 0,0:22:59.19,0:23:00.71,Nanoha Narration1,,0,0,0,,Fate!
-Dialogue: 0,0:23:12.82,0:23:14.95,Nanoha Dialogue1,,0,0,0,,I’m sorry, Nanoha.\NWe were a bit late.
+Dialogue: 0,0:23:12.82,0:23:14.95,Nanoha Dialogue1,,0,0,0,,I’m sorry we were so late, Nanoha.
 Dialogue: 0,0:23:14.95,0:23:17.20,Nanoha Dialogue1,,0,0,0,,Yuuno?
 Dialogue: 0,0:23:17.20,0:23:19.29,Nanoha Dialogue1,,0,0,0,,Her allies?
 Dialogue: 0,0:23:24.44,0:23:25.99,Nanoha Device1,,0,0,0,,Scythe Form

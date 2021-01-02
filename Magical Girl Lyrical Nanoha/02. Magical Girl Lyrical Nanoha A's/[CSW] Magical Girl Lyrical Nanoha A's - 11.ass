@@ -18,9 +18,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 7
-Active Line: 9
-Video Position: 1382
+Scroll Position: 78
+Active Line: 86
+Video Position: 5382
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,8 +31,8 @@ Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000
 Style: Nanoha Insert Song,Noto Serif,48,&H00FFFFFF,&H000000FF,&H1F000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,2.5,7,14,14,13,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
-Style: Nanoha Title1,Noto Serif,72,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,-1,0,0,0,100,100,0,0,1,0,0,5,18,18,40,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
+Style: Nanoha Title1,Utopia Std Semibold Subhead,69,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,0,0,0,100,100,0,0,1,0,0,5,18,18,40,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
 Style: Nanona A’s Logo2,Noto Sans,64,&H0021AEEA,&H000000FF,&H00A9F7FF,&HC7000000,-1,0,0,0,100,100,0.8,0,1,2.1,0,4,14,14,13,1
@@ -201,7 +201,7 @@ Dialogue: 0,0:09:52.15,0:09:55.20,Nanoha Narration1,,0,0,0,,I moved the battlefi
 Dialogue: 0,0:09:55.20,0:09:57.66,Nanoha Narration1,,0,0,0,,Please take care of the fires in the city!
 Dialogue: 0,0:09:57.66,0:09:59.15,Nanoha Dialogue1,,0,0,0,,Don’t worry.
 Dialogue: 0,0:09:59.15,0:10:01.91,Nanoha Dialogue1,,0,0,0,,The disaster team is headed there.
-Dialogue: 0,0:10:01.91,0:10:04.57,Nanoha Narration1,,0,0,0,,And Ms. Book of Darkness\Nseems like a whiner,
+Dialogue: 0,0:10:01.91,0:10:04.57,Nanoha Narration1,,0,0,0,,And Ms. Book of Darkness\Nseems really selfish,
 Dialogue: 0,0:10:04.57,0:10:06.78,Nanoha Narration1,,0,0,0,,but I think she’s getting it.
 Dialogue: 0,0:10:06.78,0:10:09.09,Nanoha Narration1,,0,0,0,,Please let me give it a little more!
 Dialogue: 0,0:10:09.09,0:10:10.66,Nanoha Dialogue1,,0,0,0,,Let’s do it, Raising Heart!
@@ -220,7 +220,7 @@ Dialogue: 0,0:10:45.74,0:10:47.66,Nanoha Device1,,0,0,0,,Call me.
 Dialogue: 0,0:10:48.79,0:10:50.94,Nanoha Device1,,0,0,0,,Call me, my master.
 Dialogue: 0,0:10:53.67,0:10:58.12,Nanoha Narration1,,0,0,0,,What was I wishing for?
 Dialogue: 0,0:10:59.16,0:11:01.00,Nanoha Narration1,,0,0,0,,To dream.
-Dialogue: 0,0:11:01.00,0:11:05.30,Nanoha Narration1,,0,0,0,,The sad reality will all become a dream.
+Dialogue: 0,0:11:01.00,0:11:05.30,Nanoha Narration1,,0,0,0,,Your sad reality will fade away like a dream.
 Dialogue: 0,0:11:05.30,0:11:06.74,Nanoha Narration1,,0,0,0,,Sleep peacefully.
 Dialogue: 0,0:11:08.44,0:11:11.69,Nanoha Narration1,,0,0,0,,Really?
 Dialogue: 0,0:11:27.87,0:11:32.90,Nanoha Dialogue1,,0,0,0,,I really wish for...
@@ -313,7 +313,7 @@ Dialogue: 0,0:18:15.83,0:18:17.00,Nanoha Dialogue1,,0,0,0,,Thank you.
 Dialogue: 0,0:18:17.00,0:18:19.53,Nanoha Dialogue1,,0,0,0,,Sorry, Alicia.
 Dialogue: 0,0:18:19.53,0:18:21.27,Nanoha Dialogue1,,0,0,0,,It’s okay.
 Dialogue: 0,0:18:21.27,0:18:24.33,Nanoha Dialogue1,,0,0,0,,I am your big sister, after all, Fate.
-Dialogue: 0,0:18:24.33,0:18:28.61,Nanoha Dialogue1,,0,0,0,,Strong and nice people are waiting for you, right?
+Dialogue: 0,0:18:24.33,0:18:28.61,Nanoha Dialogue1,,0,0,0,,Your dear, hardy friends\Nare waiting for you, right?
 Dialogue: 0,0:18:30.46,0:18:33.68,Nanoha Dialogue1,,0,0,0,,Then go ahead, Fate.
 Dialogue: 0,0:18:35.34,0:18:39.81,Nanoha Dialogue1,,0,0,0,,I wish it was like this in reality too.
 Dialogue: 0,0:18:48.06,0:18:49.97,Nanoha Dialogue1,,0,0,0,,I’ll give you a name.
@@ -394,8 +394,8 @@ Dialogue: 0,0:22:18.38,0:22:20.42,Nanoha Dialogue1,,0,0,0,,Break shoot!
 Dialogue: 0,0:22:19.94,0:22:26.92,Nanoha Insert Song,,0,0,0,,The snow melts into the night and shines
 Dialogue: 0,0:22:26.92,0:22:34.42,Nanoha Insert Song,,0,0,0,,The wind that invites the departure
 Dialogue: 0,0:22:28.08,0:22:31.52,Nanoha Dialogue1,,0,0,0,,New name, {\i1}Reinforce,{\i0} recognized.
-Dialogue: 0,0:22:32.46,0:22:35.66,Nanoha Dialogue1,,0,0,0,,Use of administrator rights\Nis now possible.
-Dialogue: 0,0:22:34.40,0:22:40.96,Nanoha Insert Song,,0,0,0,,The wind of blessing becomes the unbreakable bond
+Dialogue: 0,0:22:32.46,0:22:35.66,Nanoha Dialogue1,,0,0,0,,Use of administrator rights\Nhas now been enabled.
+Dialogue: 0,0:22:34.40,0:22:40.96,Nanoha Insert Song,,0,0,0,,The Wind of Blessing becomes the unbreakable bond
 Dialogue: 0,0:22:40.96,0:22:47.00,Nanoha Insert Song,,0,0,0,,The journey can be walked with smiles
 Dialogue: 0,0:22:45.42,0:22:46.92,Nanoha Dialogue1,,0,0,0,,Fate!
 Dialogue: 0,0:22:48.43,0:22:53.01,Nanoha Dialogue1,,0,0,0,,But the protection program is out of control.

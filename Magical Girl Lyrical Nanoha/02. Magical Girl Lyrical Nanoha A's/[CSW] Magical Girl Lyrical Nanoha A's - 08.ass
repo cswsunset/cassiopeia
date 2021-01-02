@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 9
-Active Line: 10
-Video Position: 1358
+Scroll Position: 392
+Active Line: 416
+Video Position: 30007
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Suzuka Handwriting,Merri Christina Bold,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Cell,Roboto Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -141,7 +141,7 @@ Dialogue: 0,0:03:41.99,0:03:44.79,Nanoha Dialogue1,,0,0,0,,It’s just unthinkab
 Dialogue: 0,0:03:44.79,0:03:47.02,Nanoha Dialogue1,,0,0,0,,I’m shifting the units around right now,
 Dialogue: 0,0:03:47.02,0:03:49.52,Nanoha Dialogue1,,0,0,0,,but I have to think of\Na stronger way of blocking them out.
 Dialogue: 0,0:03:49.52,0:03:53.48,Nanoha Dialogue1,,0,0,0,,Does that mean that they have that good an engineer over there?
-Dialogue: 0,0:03:54.50,0:03:57.71,Nanoha Dialogue1,,0,0,0,,Perhaps they have\Nan organization to do so.
+Dialogue: 0,0:03:54.50,0:03:57.71,Nanoha Dialogue1,,0,0,0,,Perhaps they have\Nan organization behind them.
 Dialogue: 0,0:03:57.71,0:03:59.92,Nanoha Dialogue1,,0,0,0,,What I also heard from you...
 Dialogue: 0,0:03:59.92,0:04:02.84,Nanoha Dialogue1,,0,0,0,,The conditions, and how they interact with each other, are still unclear.
 Dialogue: 0,0:04:02.84,0:04:03.84,Nanoha Dialogue1,,0,0,0,,Yeah...
@@ -149,7 +149,7 @@ Dialogue: 0,0:04:03.84,0:04:06.18,Nanoha Dialogue1,,0,0,0,,By the time I got the
 Dialogue: 0,0:04:06.18,0:04:08.68,Nanoha Dialogue1,,0,0,0,,the masked man was already nowhere in sight.
 Dialogue: 0,0:04:08.68,0:04:10.68,Nanoha Dialogue1,,0,0,0,,But she...
 Dialogue: 0,0:04:10.68,0:04:13.69,Nanoha Dialogue1,,0,0,0,,Signum was holding on to Fate...
-Dialogue: 0,0:04:13.69,0:04:18.48,Nanoha Dialogue1,,0,0,0,,She said she had no excuse, but she wanted to relay that she was sorry.
+Dialogue: 0,0:04:13.69,0:04:18.48,Nanoha Dialogue1,,0,0,0,,She said she had no excuse,\Nbut she wanted to relay that she was sorry.
 Dialogue: 0,0:04:18.48,0:04:21.99,Nanoha Dialogue1,,0,0,0,,Allex, any problem with the {\i1}Arthra{\i0} cruising about?
 Dialogue: 0,0:04:21.99,0:04:22.98,Nanoha Dialogue1,,0,0,0,,No problems.
 Dialogue: 0,0:04:23.86,0:04:26.08,Nanoha Dialogue1,,0,0,0,,Then, this is a bit earlier than scheduled,
@@ -189,7 +189,7 @@ Dialogue: 0,0:05:57.42,0:06:01.88,Nanoha Dialogue1,,0,0,0,,I think somehow we’
 Dialogue: 0,0:06:41.33,0:06:42.28,Nanoha Dialogue1,,0,0,0,,Hayate!
 Dialogue: 0,0:06:42.28,0:06:44.34,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Hayate!
 Dialogue: 0,0:06:44.34,0:06:47.09,Nanoha Dialogue1,,0,0,0,,Hayate! Hayate!
-Dialogue: 0,0:06:48.44,0:06:50.41,Nanoha Dialogue1,,0,0,0,,The hospital... an ambulance!
+Dialogue: 0,0:06:48.44,0:06:50.41,Nanoha Dialogue1,,0,0,0,,The hospital... call an ambulance!
 Dialogue: 0,0:06:50.41,0:06:50.90,Nanoha Dialogue1,,0,0,0,,Right!
 Dialogue: 0,0:06:50.90,0:06:52.95,Nanoha Dialogue1,,0,0,0,,Don’t move her. Leave her alone.
 Dialogue: 0,0:06:52.95,0:06:53.90,Nanoha Dialogue1,,0,0,0,,Okay...
@@ -202,7 +202,7 @@ Dialogue: 0,0:07:22.73,0:07:24.64,Nanoha Dialogue1,,0,0,0,,You’re aboard the {
 Dialogue: 0,0:07:24.64,0:07:28.08,Nanoha Dialogue1,,0,0,0,,You were attacked from behind during your battle in the desert
 Dialogue: 0,0:07:28.08,0:07:29.26,Nanoha Dialogue1,,0,0,0,,and knocked unconscious.
 Dialogue: 0,0:07:30.38,0:07:33.12,Nanoha Dialogue1,,0,0,0,,Your Linker Core got absorbed a little,
-Dialogue: 0,0:07:33.12,0:07:35.39,Nanoha Dialogue1,,0,0,0,,but they say you will be fine soon.\NNo need to worry.
+Dialogue: 0,0:07:33.12,0:07:35.39,Nanoha Dialogue1,,0,0,0,,but they say you’ll be fine soon.\NNo need to worry.
 Dialogue: 0,0:07:35.39,0:07:38.39,Nanoha Dialogue1,,0,0,0,,I was defeated, wasn’t I?
 Dialogue: 0,0:07:38.39,0:07:41.89,Nanoha Dialogue1,,0,0,0,,Not even Bureau searchers could confirm this ambush beforehand,
 Dialogue: 0,0:07:41.89,0:07:43.69,Nanoha Dialogue1,,0,0,0,,so there’s nothing you could have done.
@@ -323,7 +323,7 @@ Dialogue: 0,0:14:20.93,0:14:22.08,Nanoha Narration1,,0,0,0,,At this point in tim
 Dialogue: 0,0:14:22.89,0:14:24.59,Nanoha Narration1,,0,0,0,,I’m still looking up whatever I can think of.
 Dialogue: 0,0:14:24.59,0:14:27.17,Nanoha Narration1,,0,0,0,,But as expected from the Infinity Library,
 Dialogue: 0,0:14:27.17,0:14:29.38,Nanoha Narration1,,0,0,0,,it’s amazing that I can find whatever I look up.
-Dialogue: 0,0:14:30.14,0:14:33.04,Nanoha Narration1,,0,0,0,,Or rather, we think you are amazing.
+Dialogue: 0,0:14:30.14,0:14:33.04,Nanoha Narration1,,0,0,0,,Or rather, we think {\i0}you{\i1} are amazing.
 Dialogue: 0,0:14:33.04,0:14:35.18,Nanoha Narration1,,0,0,0,,You’re so skilled at searching for stuff!
 Dialogue: 0,0:14:35.18,0:14:37.68,Nanoha Dialogue1,,0,0,0,,Then, I’m sorry, but I’d like you to go a bit further.
 Dialogue: 0,0:14:37.68,0:14:38.74,Nanoha Narration1,,0,0,0,,Right.
@@ -444,7 +444,7 @@ Dialogue: 0,0:19:44.90,0:19:47.85,Nanoha Dialogue1,,0,0,0,,You can just go insid
 Dialogue: 0,0:19:47.85,0:19:49.90,Nanoha Dialogue1,,0,0,0,,Or is that a taboo?
 Dialogue: 0,0:19:49.90,0:19:52.90,Nanoha Dialogue1,,0,0,0,,Um, well...
 Dialogue: 0,0:19:56.43,0:19:59.16,Nanoha Dialogue1,,0,0,0,,This may be a strange way of putting it,
-Dialogue: 0,0:19:59.16,0:20:00.83,Nanoha Dialogue1,,0,0,0,,but as Hayate’s primary doctor,
+Dialogue: 0,0:19:59.16,0:20:00.83,Nanoha Dialogue1,,0,0,0,,but as Hayate’s primary care physician,
 Dialogue: 0,0:20:00.83,0:20:03.43,Nanoha Dialogue1,,0,0,0,,I really am thankful to all of you, Ms. Shamal.
 Dialogue: 0,0:20:03.43,0:20:05.90,Nanoha Dialogue1,,0,0,0,,Ever since you all started living with her,
 Dialogue: 0,0:20:05.90,0:20:08.42,Nanoha Dialogue1,,0,0,0,,Hayate seems so happy.
@@ -460,7 +460,7 @@ Dialogue: 0,0:20:36.30,0:20:37.86,Nanoha Dialogue1,,0,0,0,,I will...
 Dialogue: 0,0:20:43.50,0:20:45.54,Nanoha Dialogue1,,0,0,0,,I hope Hayate gets well soon.
 Dialogue: 0,0:20:45.54,0:20:47.51,Nanoha Dialogue1,,0,0,0,,Yes, me too.
 Dialogue: 0,0:20:48.86,0:20:51.52,Nanoha Dialogue1,,0,0,0,,How was your friends’ visit?
-Dialogue: 0,0:20:51.52,0:20:53.65,Nanoha Dialogue1,,0,0,0,,Yeah, all of them were good girls!
+Dialogue: 0,0:20:51.52,0:20:53.65,Nanoha Dialogue1,,0,0,0,,Yeah, all of them were so nice!
 Dialogue: 0,0:20:53.65,0:20:54.89,Nanoha Dialogue1,,0,0,0,,It was fun!
 Dialogue: 0,0:20:54.89,0:20:56.52,Nanoha Dialogue1,,0,0,0,,They said they’d swing by every so often.
 Dialogue: 0,0:20:56.52,0:20:58.69,Nanoha Dialogue1,,0,0,0,,That’s good to hear.

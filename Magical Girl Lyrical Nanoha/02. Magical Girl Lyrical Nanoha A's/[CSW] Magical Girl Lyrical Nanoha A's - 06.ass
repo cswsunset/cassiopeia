@@ -20,9 +20,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 11
-Active Line: 12
-Video Position: 1382
+Scroll Position: 416
+Active Line: 443
+Video Position: 31440
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +34,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Nanoha Sign,Junicode,16,&H0099D2CB,&H000000FF,&H00000000,&H49000000,0,0,0,0,100,100,0,0,1,0,1,4,14,14,13,1
 Style: Nanona A’s Logo1,Noto Sans ExtraCondensed,64,&H007F3113,&H000000FF,&H00C8A18A,&HC7000000,-1,0,0,0,72,100,0,0,1,2.1,0,4,14,14,13,1
@@ -123,7 +123,7 @@ Dialogue: 0,0:02:31.25,0:02:35.37,Nanoha Dialogue1,,0,0,0,,An artificial lifefor
 Dialogue: 0,0:02:35.37,0:02:36.78,Nanoha Dialogue1,,0,0,0,,Is that something like me?
 Dialogue: 0,0:02:36.78,0:02:38.28,Nanoha Dialogue1,,0,0,0,,No, it’s not!
 Dialogue: 0,0:02:39.51,0:02:43.31,Nanoha Dialogue1,,0,0,0,,Fate, you just had a slightly different way of being born.
-Dialogue: 0,0:02:43.31,0:02:46.52,Nanoha Dialogue1,,0,0,0,,You are a human who was properly granted life into this world.
+Dialogue: 0,0:02:43.31,0:02:46.52,Nanoha Dialogue1,,0,0,0,,You are a human who was properly granted life into the worlds.
 Dialogue: 0,0:02:46.52,0:02:50.04,Nanoha Dialogue1,,0,0,0,,The test results said so too, right?
 Dialogue: 0,0:02:50.04,0:02:52.02,Nanoha Dialogue1,,0,0,0,,Stop talking like that.
 Dialogue: 0,0:02:53.12,0:02:54.00,Nanoha Dialogue1,,0,0,0,,Yes...
@@ -190,7 +190,7 @@ Dialogue: 0,0:06:01.21,0:06:02.90,Nanoha Dialogue1,,0,0,0,,What about you, Signu
 Dialogue: 0,0:06:02.90,0:06:03.98,Nanoha Dialogue1,,0,0,0,,What about me?
 Dialogue: 0,0:06:03.98,0:06:05.64,Nanoha Dialogue1,,0,0,0,,Are you all right?
 Dialogue: 0,0:06:05.64,0:06:09.61,Nanoha Dialogue1,,0,0,0,,Your mana seems to be quite drained.
-Dialogue: 0,0:06:09.61,0:06:13.26,Nanoha Dialogue1,,0,0,0,,Your leader was not made to be that weak.
+Dialogue: 0,0:06:09.61,0:06:13.26,Nanoha Dialogue1,,0,0,0,,Your general was not made to be that weak.
 Dialogue: 0,0:06:13.26,0:06:15.06,Nanoha Dialogue1,,0,0,0,,I am fine.
 Dialogue: 0,0:06:15.06,0:06:17.98,Nanoha Dialogue1,,0,0,0,,You have changed quite a bit too.
 Dialogue: 0,0:06:17.98,0:06:18.69,Nanoha Dialogue1,,0,0,0,,Oh?
@@ -249,7 +249,7 @@ Dialogue: 0,0:09:53.81,0:09:54.88,Nanoha Dialogue1,,0,0,0,,Relatives?
 Dialogue: 0,0:09:54.88,0:09:56.78,Nanoha Dialogue1,,0,0,0,,They came by to wish me a happy birthday
 Dialogue: 0,0:09:56.78,0:09:59.24,Nanoha Dialogue1,,0,0,0,,from their distant home country.
 Dialogue: 0,0:09:59.24,0:10:03.44,Nanoha Dialogue1,,0,0,0,,And they tried to surprise me and dressed up in costumes...
-Dialogue: 0,0:10:03.44,0:10:07.32,Nanoha Dialogue1,,0,0,0,,But I got too surprised by all of this, and....
+Dialogue: 0,0:10:03.44,0:10:07.32,Nanoha Dialogue1,,0,0,0,,But I got too surprised by all of this, and...
 Dialogue: 0,0:10:07.32,0:10:10.16,Nanoha Dialogue1,,0,0,0,,Well, that’s how it goes... right?
 Dialogue: 0,0:10:11.00,0:10:12.60,Nanoha Dialogue1,,0,0,0,,That’s exactly what happened!
 Dialogue: 0,0:10:12.60,0:10:13.92,Nanoha Dialogue1,,0,0,0,,Just as she said.
@@ -455,7 +455,7 @@ Dialogue: 0,0:20:00.92,0:20:03.69,Nanoha Dialogue1,,0,0,0,,This doesn’t hurt a
 Dialogue: 0,0:20:03.69,0:20:07.93,Nanoha Dialogue1,,0,0,0,,It’s not like the past.
 Dialogue: 0,0:20:11.27,0:20:13.12,Nanoha Dialogue1,,0,0,0,,When I get home,
 Dialogue: 0,0:20:13.12,0:20:18.77,Nanoha Dialogue1,,0,0,0,,I’m sure that I have a warm bath—and Hayate’s food—waiting for me.
-Dialogue: 0,0:20:18.77,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Sweet Hayate is waiting for me with a smile!
+Dialogue: 0,0:20:18.77,0:20:23.86,Nanoha Dialogue1,,0,0,0,,Hayate is waiting for me\Nwith a smile and all her love!
 Dialogue: 0,0:20:23.86,0:20:25.10,Nanoha Dialogue1,,0,0,0,,Oh yeah!
 Dialogue: 0,0:20:25.10,0:20:29.14,Nanoha Dialogue1,,0,0,0,,I’m super happy!
 Dialogue: 0,0:20:30.11,0:20:31.39,Nanoha Dialogue1,,0,0,0,,So!
@@ -465,10 +465,10 @@ Dialogue: 0,0:20:57.81,0:21:01.34,Nanoha Dialogue1,,0,0,0,,Well, we left Allex t
 Dialogue: 0,0:21:01.34,0:21:03.94,Nanoha Dialogue1,,0,0,0,,We just have to investigate the Book of Darkness, right?
 Dialogue: 0,0:21:03.94,0:21:04.88,Nanoha Dialogue1,,0,0,0,,Yeah.
 Dialogue: 0,0:21:04.88,0:21:07.56,Nanoha Dialogue1,,0,0,0,,The two we’re about to meet are in the know for that kind of thing.
-Dialogue: 0,0:21:09.58,0:21:10.82,Nanoha Dialogue1,,0,0,0,,The Liese....
+Dialogue: 0,0:21:09.58,0:21:10.82,Nanoha Dialogue1,,0,0,0,,The Liese...
 Dialogue: 0,0:21:10.82,0:21:13.15,Nanoha Dialogue1,,0,0,0,,It’s been a while. It’s me, Chrono.
 Dialogue: 0,0:21:13.15,0:21:14.60,Nanoha Dialogue1,,0,0,0,,Wow!
-Dialogue: 0,0:21:15.55,0:21:16.69,Nanoha Dialogue1,,0,0,0,,Chroboy!
+Dialogue: 0,0:21:15.55,0:21:16.69,Nanoha Dialogue1,,0,0,0,,Chrobert!
 Dialogue: 0,0:21:16.69,0:21:19.09,Nanoha Dialogue1,,0,0,0,,Wow, long time no see!
 Dialogue: 0,0:21:19.09,0:21:20.14,Nanoha Dialogue1,,0,0,0,,Lotte!
 Dialogue: 0,0:21:21.08,0:21:22.23,Nanoha Dialogue1,,0,0,0,,Lemme go!
@@ -486,7 +486,7 @@ Dialogue: 0,0:21:46.22,0:21:48.22,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Get away
 Dialogue: 0,0:21:46.85,0:21:49.35,Nanoha Dialogue1,,0,0,0,,Lieselotte is as always...
 Dialogue: 0,0:21:48.82,0:21:51.29,Nanoha Dialogue1,,0,0,0,,{\c&HE1E1E1&}Do something about this, dammit!
 Dialogue: 0,0:21:49.35,0:21:51.29,Nanoha Dialogue1,,0,0,0,,Well, despite being my twin,
-Dialogue: 0,0:21:51.29,0:21:53.40,Nanoha Dialogue1,,0,0,0,,there’s no accounting for some things.
+Dialogue: 0,0:21:51.29,0:21:53.40,Nanoha Dialogue1,,0,0,0,,there’s no accounting for taste.
 Dialogue: 0,0:21:54.50,0:21:55.83,Nanoha Dialogue1,,0,0,0,,Thanks for the meal!
 Dialogue: 0,0:21:55.83,0:21:58.00,Nanoha Dialogue1,,0,0,0,,Lieselotte, long time no see.
 Dialogue: 0,0:22:01.37,0:22:02.90,Nanoha Dialogue1,,0,0,0,,Amy! Long time no see!

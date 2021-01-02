@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 6
-Active Line: 11
-Video Position: 1356
+Scroll Position: 132
+Active Line: 133
+Video Position: 9097
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +32,7 @@ Style: Nanoha A’s Title1,DynamoBE,56,&H00F4FAF6,&H000000FF,&H40901E38,&HC70000
 Style: Nanoha A’s Title2,Noto Sans,64,&H00A33034,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,79,79,23,1
 Style: Nanoha Narration1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,8,18,18,20,1
 Style: Nanoha Device1,Noto Serif,53,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,40,1
-Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2.6,3.1,2,18,18,18,1
+Style: Nanoha Device2,Noto Serif,38,&H00FFFFFF,&H000000FF,&H00000000,&HC7000000,0,-1,0,0,100,100,0,0,1,2,2.2,2,18,18,18,1
 Style: Nanoha Title2,Noto Sans,56,&H002D4DCD,&H000000FF,&H00FFFFFF,&HC7000000,0,0,0,0,100,100,0,0,1,2.5,0,2,80,80,23,1
 Style: Suzuka Handwriting,Merri Christina Bold,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Nanoha Cell,Roboto Regular,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -106,16 +106,16 @@ Dialogue: 3,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos
 Dialogue: 2,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
 Dialogue: 1,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
 Dialogue: 0,0:02:21.69,0:02:22.49,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)\clip(122,196,105,320)\t(\clip(122,196,655,320))}Nanoha
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
-Dialogue: 3,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
-Dialogue: 2,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
-Dialogue: 1,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
-Dialogue: 0,0:02:22.49,0:02:26.94,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\bord0\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\c&HC8A18A&\blur0.5\pos(128,220)}Magical Girl
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo1,,0,0,0,,{\bord3.6\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(128,220)}Magical Girl
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\bord0\blur0.5\pos(128,271)}Lyrical
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\blur0.5\c&HA9F7FF&\pos(128,271)}Lyrical
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo2,,0,0,0,,{\bord3.6\blur0.5\c&H000000&\3c&H000000&\pos(128,271)}Lyrical
+Dialogue: 3,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord0\blur0.5\pos(297,243)}Nanoha
+Dialogue: 2,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\c&HFFFFFF&\blur0.5\pos(297,243)}Nanoha
+Dialogue: 1,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord8.1\c&H000000&\blur0.5\3c&H000000&\pos(297,243)}Nanoha
+Dialogue: 0,0:02:22.49,0:02:26.93,Nanona A’s Logo3,,0,0,0,,{\bord10.1\c&HFFFFFF&\blur0.5\3c&HFFFFFF&\pos(297,243)}Nanoha
 Dialogue: 0,0:02:35.62,0:02:39.99,Nanoha Dialogue1,,0,0,0,,That’s all the data we have.\NIs it of any help?
 Dialogue: 0,0:02:39.99,0:02:43.72,Nanoha Dialogue1,,0,0,0,,Yes... thank you. It’s a big help.
 Dialogue: 0,0:02:45.90,0:02:48.93,Nanoha Dialogue1,,0,0,0,,Hey, all of you are going to come over here today, right?
@@ -172,10 +172,10 @@ Dialogue: 0,0:05:55.95,0:05:58.16,Nanoha Dialogue1,,0,0,0,,You’re one of the S
 Dialogue: 0,0:05:58.16,0:06:01.46,Nanoha Dialogue1,,0,0,0,,Both Lotte and I have work to do,
 Dialogue: 0,0:06:01.46,0:06:04.42,Nanoha Dialogue1,,0,0,0,,so we can’t stay here the whole time until you’re done,
 Dialogue: 0,0:06:04.42,0:06:07.03,Nanoha Dialogue1,,0,0,0,,but we’ll help as much as we can.
-Dialogue: 0,0:06:07.03,0:06:10.89,Nanoha Dialogue1,,0,0,0,,After all, it’s a request from\NChroboy, my cute apprentice.
+Dialogue: 0,0:06:07.03,0:06:10.89,Nanoha Dialogue1,,0,0,0,,After all, it’s a request from\NChrobert, my cute little apprentice.
 Dialogue: 0,0:06:14.40,0:06:18.74,Nanoha Dialogue1,,0,0,0,,I see... so both Alisa and Suzuka are taking violin lessons?
 Dialogue: 0,0:06:18.74,0:06:19.40,Nanoha Dialogue1,,0,0,0,,Yeah.
-Dialogue: 0,0:06:19.40,0:06:23.52,Nanoha Dialogue1,,0,0,0,,They text me to tell me about their lessons all the time.
+Dialogue: 0,0:06:19.40,0:06:23.52,Nanoha Dialogue1,,0,0,0,,They text me about their lessons all the time.
 Dialogue: 0,0:06:23.52,0:06:25.28,Nanoha Dialogue1,,0,0,0,,I see.
 Dialogue: 0,0:06:25.78,0:06:27.30,Nanoha Dialogue1,,0,0,0,,I’m back!
 Dialogue: 0,0:06:36.79,0:06:39.29,Nanoha Dialogue1,,0,0,0,,Has the Captain taken off for the Main Office already?
@@ -211,7 +211,7 @@ Dialogue: 0,0:09:18.80,0:09:21.18,Nanoha Dialogue1,,0,0,0,,Are you worried about
 Dialogue: 0,0:09:23.36,0:09:25.00,Nanoha Dialogue1,,0,0,0,,You again...
 Dialogue: 0,0:09:25.00,0:09:27.72,Nanoha Dialogue1,,0,0,0,,Our mistresses are one-on-one right now.
 Dialogue: 0,0:09:27.72,0:09:29.52,Nanoha Dialogue1,,0,0,0,,The same goes for us.
-Dialogue: 0,0:09:31.37,0:09:34.20,Nanoha Dialogue1,,0,0,0,,Signum is our leader,
+Dialogue: 0,0:09:31.37,0:09:34.20,Nanoha Dialogue1,,0,0,0,,Signum is our general,
 Dialogue: 0,0:09:34.20,0:09:35.78,Nanoha Dialogue1,,0,0,0,,but she is not my mistress.
 Dialogue: 0,0:09:36.86,0:09:42.78,Nanoha Dialogue1,,0,0,0,,That means your mistress is the mistress of the Book of Darkness, huh?
 Dialogue: 0,0:09:51.42,0:09:54.36,Nanoha Narration1,,0,0,0,,Fate! What are you doing, helping her?!
