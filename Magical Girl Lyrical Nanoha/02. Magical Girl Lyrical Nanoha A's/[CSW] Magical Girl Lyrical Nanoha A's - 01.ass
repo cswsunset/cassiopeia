@@ -19,9 +19,9 @@ Video File: ../../../mnt/extra/[ReinForce] Mahou Shoujo Lyrical Nanoha A's (BDRi
 Video AR Mode: 4
 Video AR Value: 1.323364
 Video Zoom Percent: 1.000000
-Scroll Position: 88
-Active Line: 90
-Video Position: 7392
+Scroll Position: 320
+Active Line: 327
+Video Position: 36243
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -175,8 +175,8 @@ Dialogue: 0,0:07:48.54,0:07:49.90,Nanoha Dialogue1,,0,0,0,,Wouldn’t it?
 Dialogue: 0,0:07:50.10,0:07:52.57,Nanoha Dialogue1,,0,0,0,,Hey, Mom, do you think\NYuuno remembers who I am?
 Dialogue: 0,0:07:52.57,0:07:58.87,Nanoha Narration1,,0,0,0,,Fate... Yuuno... Chrono and\NMrs. Lindy... Amy...
 Dialogue: 0,0:07:58.87,0:08:01.00,Nanoha Narration1,,0,0,0,,I wonder if everyone is doing well?
-Dialogue: 1,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\bord0}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
-Dialogue: 0,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,540,\1a&H00&)}Same time, the Dimensional Sea\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
+Dialogue: 1,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\bord0}Same time\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
+Dialogue: 0,0:08:02.86,0:08:06.90,Nanoha Dialogue2,,0,0,0,,{\blur0.5\fad(540,0)\an5\pos(476,517.5)\c&H000000&\1a&HFF&\t(0,540,\1a&H00&)}Same time\NTime-Space Administrative Bureau Flagship {\i1}Arthra{\i0}
 Dialogue: 0,0:08:12.38,0:08:15.68,Nanoha Dialogue1,,0,0,0,,Preparations to dock at the Bureau’s Main Office are now complete.
 Dialogue: 0,0:08:16.30,0:08:19.20,Nanoha Dialogue1,,0,0,0,,Our plans are going well.\NIsn’t that good?
 Dialogue: 0,0:08:22.02,0:08:23.16,Nanoha Dialogue1,,0,0,0,,Excuse me...
